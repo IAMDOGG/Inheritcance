@@ -1,0 +1,8 @@
+Z:\QQ134\clnInheritance\clnInheritance\bin\Debug\clnInheritance.exe.config
+Z:\QQ134\clnInheritance\clnInheritance\bin\Debug\clnInheritance.exe
+Z:\QQ134\clnInheritance\clnInheritance\bin\Debug\clnInheritance.pdb
+Z:\QQ134\clnInheritance\clnInheritance\obj\Debug\clnInheritance.csproj.AssemblyReference.cache
+Z:\QQ134\clnInheritance\clnInheritance\obj\Debug\clnInheritance.csproj.SuggestedBindingRedirects.cache
+Z:\QQ134\clnInheritance\clnInheritance\obj\Debug\clnInheritance.csproj.CoreCompileInputs.cache
+Z:\QQ134\clnInheritance\clnInheritance\obj\Debug\clnInheritance.exe
+Z:\QQ134\clnInheritance\clnInheritance\obj\Debug\clnInheritance.pdb
